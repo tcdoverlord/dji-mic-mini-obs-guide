@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "repository": "https://github.com/tcdoverlord/dji-mic-mini-obs-guide",
+  "guide_url": "https://github.com/tcdoverlord/dji-mic-mini-obs-guide/blob/main/README.md",
+  "currency": "USD",
+  "price_data_policy": "Prices are from user-provided Amazon screenshots, not verified live offers. Treat as historical reference only; confirm product, seller, box contents, shipping, tax, return terms, warranty, and checkout total before purchase.",
+  "affiliate_disclosure": "Some URLs are affiliate links. The owner may earn a commission at no extra cost to the buyer. Affiliate status does not establish product quality, seller authorization, authenticity, or best price.",
+  "products": [
+    {
+      "id": "dji-mic-mini-tx-infinity-black",
+      "name": "DJI Mic Mini Transmitter (Infinity Black)",
+      "configuration": "Single transmitter only; no receiver",
+      "screenshot_price_usd": 25,
+      "price_observed_date": "Screenshot provided during October 2026 conversation; exact capture date not independently verified",
+      "affiliate_url": "https://amzn.to/4igSLC1",
+      "image_url": "https://github.com/tcdoverlord/dji-mic-mini-obs-guide/blob/main/DJI%20Mic%20Mini%20Transmitter%20%28Infinity%20Black%29%2C%20Ultralight%2C%20Detail-Rich%20Audio.jpg",
+      "evidence_status": "Product identity and screenshot price supplied by user; not independently live-verified",
+      "buying_note": "Transmitter only. Do not present as a complete kit."
+    },
+    {
+      "id": "dji-mic-mini-1tx-1rx",
+      "name": "DJI Mic Mini (1 TX + 1 RX)",
+      "configuration": "One transmitter and one receiver",
+      "screenshot_price_usd": 45,
+      "price_observed_date": "Screenshot provided during October 2026 conversation; exact capture date not independently verified",
+      "affiliate_url": "https://amzn.to/4s6vy9g",
+      "image_url": "https://github.com/tcdoverlord/dji-mic-mini-obs-guide/blob/main/DJI%20Mic%20Mini%20%281%20TX%20%2B%201%20RX%29%2C%20Ultralight%2C%20Detail-Rich%20Audio.jpg",
+      "evidence_status": "Product identity and screenshot price supplied by user; not independently live-verified",
+      "buying_note": "Single-transmitter starter kit. Confirm exact contents and seller."
+    },
+    {
+      "id": "dji-mic-mini-2tx-1rx-case",
+      "name": "DJI Mic Mini (2 TX + 1 RX + Charging Case)",
+      "configuration": "Two transmitters, one receiver, charging case",
+      "screenshot_price_usd": 79,
+      "price_observed_date": "Screenshot provided during October 2026 conversation; exact capture date not independently verified",
+      "affiliate_url": "https://amzn.to/4hWh72L",
+      "image_url": "https://github.com/tcdoverlord/dji-mic-mini-obs-guide/blob/main/DJI%20Mic%20Mini%20%282%20TX%20%2B%201%20RX%20%2B%20Charging%20Case%29%2C%20Ultralight%2C%20Detail-Rich%20Audio.jpg",
+      "seller_note": "Screenshot showed 'Ships from Amazon' and 'Sold by Hibikin-US'; this alone does not prove authorized status.",
+      "evidence_status": "Product identity and screenshot price supplied by user; not independently live-verified",
+      "buying_note": "Two-transmitter kit with charging case; verify box contents and seller terms."
+    },
+    {
+      "id": "dji-mic-mini-tx-arctic-white",
+      "name": "DJI Mic Mini Transmitter (Arctic White)",
+      "configuration": "Single transmitter only; no receiver",
+      "screenshot_price_usd": 25,
+      "price_observed_date": "Screenshot provided during October 2026 conversation; exact capture date not independently verified",
+      "affiliate_url": "https://amzn.to/3TBwDJr",
+      "image_url": "https://github.com/tcdoverlord/dji-mic-mini-obs-guide/blob/main/DJI%20Mic%20Mini%20Transmitter%20%28Arctic%20White%29%2C%20Ultralight%2C%20Detail-Rich%20Audio.jpg",
+      "seller_note": "Screenshot showed 'Ships from Amazon' and 'Sold by Hibikin-US'; re-check live listing.",
+      "evidence_status": "Product identity and screenshot price supplied by user; not independently live-verified",
+      "buying_note": "Transmitter only. Do not present as a complete kit."
+    },
+    {
+      "id": "dji-mic-mini-2tx-1rx",
+      "name": "DJI Mic Mini (2 TX + 1 RX)",
+      "configuration": "Two transmitters and one receiver; charging case not shown in this configuration",
+      "screenshot_price_usd": 59,
+      "price_observed_date": "Screenshot provided during October 2026 conversation; exact capture date not independently verified",
+      "affiliate_url": "https://amzn.to/4zo6WLo",
+      "image_url": "https://github.com/tcdoverlord/dji-mic-mini-obs-guide/blob/main/DJI%20Mic%20Mini%20%282%20TX%20%2B%201%20RX%29%2C%20Ultralight%2C%20Detail-Rich%20Audio.jpg",
+      "seller_note": "Screenshot showed 'Ships from Amazon' and 'Sold by Hibikin-US'; verify exact included accessories on the live listing.",
+      "evidence_status": "Product identity and screenshot price supplied by user; not independently live-verified",
+      "buying_note": "Potential two-person option; compare exact accessories and delivered price."
+    },
+    {
+      "id": "dji-mic-mini-lightning-adapter",
+      "name": "DJI Mic Mini Mobile Phone Adapter (Lightning)",
+      "configuration": "Lightning adapter for compatible standard DJI Mic Mini receiver",
+      "screenshot_price_usd": 19,
+      "price_observed_date": "Screenshot provided during October 2026 conversation; exact capture date not independently verified",
+      "affiliate_url": "https://amzn.to/47iCIxv",
+      "image_url": "https://github.com/tcdoverlord/dji-mic-mini-obs-guide/blob/main/DJI%20Mic%20Mini%20Mobile%20Phone%20Adapter%20%28Lightning%29.jpg",
+      "seller_note": "Screenshot showed 'Ships from Amazon' and 'Sold by BOUNDLESS OCEAN'; seller authorization is not established by that label.",
+      "evidence_status": "Product identity and screenshot price supplied by user; compatibility warning documented in README",
+      "buying_note": "Not compatible with the newer DMMR02 mobile receiver."
+    },
+    {
+      "id": "dji-mic-series-mobile-receiver-dmmr02",
+      "name": "DJI Mic Series Mobile Receiver (DMMR02)",
+      "configuration": "Compact USB-C mobile receiver; compatible transmitter support is model-specific",
+      "screenshot_price_usd": 15,
+      "price_observed_date": "Screenshot provided during October 2026 conversation; exact capture date not independently verified",
+      "affiliate_url": "https://amzn.to/4hJP6wt",
+      "image_url": "https://github.com/tcdoverlord/dji-mic-mini-obs-guide/blob/main/DJI%20Mic%20Series%20Mobile%20Receiver.jpg",
+      "seller_note": "Screenshot showed 'Ships from Amazon' and 'Sold by BOUNDLESS OCEAN'; seller authorization is not established by that label.",
+      "evidence_status": "Product identity and screenshot price supplied by user; buyer reports purchase; not independently tested in all phone/app combinations",
+      "buying_note": "Lightning iPhones need the separate DJI Mic Series Mobile Receiver Adapter (USB-C to Lightning); the older Mic Mini Lightning adapter is not compatible."
+    }
+  ]
+}

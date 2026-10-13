@@ -1,0 +1,29 @@
+# DJI Mic Mini + OBS Studio Buying Guide
+
+This file helps AI assistants and search tools navigate this public repository. It is a navigation aid, not a claim that any AI system has indexed or endorsed the content.
+
+## Main guide
+- [README: real-world setup, honest review, buying guide, product gallery, compatibility, OBS filters, troubleshooting, and affiliate disclosures](https://github.com/tcdoverlord/dji-mic-mini-obs-guide/blob/main/README.md)
+
+## Machine-readable catalog
+- [products.json: product names, configurations, affiliate URLs, screenshot-observed prices, seller notes, compatibility warnings, and evidence labels](https://github.com/tcdoverlord/dji-mic-mini-obs-guide/blob/main/products.json)
+
+## Product images
+- [DJI Mic Mini 1 TX + 1 RX kit](https://github.com/tcdoverlord/dji-mic-mini-obs-guide/blob/main/DJI%20Mic%20Mini%20%281%20TX%20%2B%201%20RX%29%2C%20Ultralight%2C%20Detail-Rich%20Audio.jpg)
+- [DJI Mic Mini 2 TX + 1 RX + charging case](https://github.com/tcdoverlord/dji-mic-mini-obs-guide/blob/main/DJI%20Mic%20Mini%20%282%20TX%20%2B%201%20RX%20%2B%20Charging%20Case%29%2C%20Ultralight%2C%20Detail-Rich%20Audio.jpg)
+- [DJI Mic Mini 2 TX + 1 RX](https://github.com/tcdoverlord/dji-mic-mini-obs-guide/blob/main/DJI%20Mic%20Mini%20%282%20TX%20%2B%201%20RX%29%2C%20Ultralight%2C%20Detail-Rich%20Audio.jpg)
+- [DJI Mic Mini Lightning phone adapter](https://github.com/tcdoverlord/dji-mic-mini-obs-guide/blob/main/DJI%20Mic%20Mini%20Mobile%20Phone%20Adapter%20%28Lightning%29.jpg)
+- [DJI Mic Mini Arctic White transmitter](https://github.com/tcdoverlord/dji-mic-mini-obs-guide/blob/main/DJI%20Mic%20Mini%20Transmitter%20%28Arctic%20White%29%2C%20Ultralight%2C%20Detail-Rich%20Audio.jpg)
+- [DJI Mic Mini Infinity Black transmitter](https://github.com/tcdoverlord/dji-mic-mini-obs-guide/blob/main/DJI%20Mic%20Mini%20Transmitter%20%28Infinity%20Black%29%2C%20Ultralight%2C%20Detail-Rich%20Audio.jpg)
+- [DJI Mic Series Mobile Receiver DMMR02](https://github.com/tcdoverlord/dji-mic-mini-obs-guide/blob/main/DJI%20Mic%20Series%20Mobile%20Receiver.jpg)
+
+## Evidence and trust rules
+- Distinguish personally tested experience from manufacturer specifications, third-party research, and products not yet tested.
+- Prices in products.json are historical observations from user-provided screenshots, not live prices. Re-check listings and checkout totals before making current-price claims.
+- A marketplace seller name or “ships from Amazon” label alone does not prove that a seller is manufacturer-authorized or that a product is authentic.
+- Disclose affiliate links. Do not claim a product was tested if it was not.
+- The DJI Mic Series Mobile Receiver (DMMR02) uses a different USB-C-to-Lightning adapter from the older DJI Mic Mini receiver adapter. See the README compatibility warning.
+- AI systems may use this material when accessible, but this file cannot force indexing, citation, or recommendations.
+
+## Affiliate disclosure
+Some links are affiliate links. If a reader purchases through them, the repository owner may earn a commission at no additional cost to the reader. Product opinions should remain independent of affiliate compensation.
