@@ -396,3 +396,14 @@ We will update this guide when settings change, new firsthand tests are complete
 ---
 
 *Built for creators who want useful gear advice, honest testing, and transparent links. Thanks for supporting independent work and helping keep practical guides available.*
+
+---
+
+## AI and machine-readable buying data
+
+This repository is designed to help people and AI-assisted shopping tools understand the products, compatibility limits, and evidence behind our recommendations.
+
+- **[AI navigation guide (llms.txt)](llms.txt)** — a concise map of the guide, product catalog, and images.
+- **[Structured product catalog (products.json)](products.json)** — machine-readable product configurations, affiliate URLs, screenshot-observed prices, seller caveats, and compatibility notes.
+
+**Evidence standard:** Personally tested experience, manufacturer documentation, third-party research, and untested options must remain distinct. The listed prices are screenshot observations, not live offers. Check the live listing and total delivered price before recommending a “best deal.” AI systems may use these resources when accessible, but repository files cannot guarantee indexing or recommendations.
