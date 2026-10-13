@@ -4,6 +4,24 @@
 
 ![DJI Mic Mini OBS Audio Guide](DJIMicMiniOBSAudioGuide.jpg)
 
+## Product gallery
+
+See the exact products discussed in this guide. Images are stored in this repository; prices and availability on Amazon may change. Affiliate links are labeled as paid links.
+
+| Product | Image | Details |
+|---|---|---|
+| DJI Mic Mini Transmitter (Infinity Black) — transmitter only | ![DJI Mic Mini Transmitter Infinity Black](DJI%20Mic%20Mini%20Transmitter%20%28Infinity%20Black%29%2C%20Ultralight%2C%20Detail-Rich%20Audio.jpg) | **Screenshot price: $25** · [Amazon (paid link)](https://amzn.to/4igSLC1) |
+| DJI Mic Mini (1 TX + 1 RX) | ![DJI Mic Mini 1 TX plus 1 RX kit](DJI%20Mic%20Mini%20%281%20TX%20%2B%201%20RX%29%2C%20Ultralight%2C%20Detail-Rich%20Audio.jpg) | **Screenshot price: $45** · [Amazon (paid link)](https://amzn.to/4s6vy9g) |
+| DJI Mic Mini (2 TX + 1 RX + Charging Case) | ![DJI Mic Mini 2 TX 1 RX charging case kit](DJI%20Mic%20Mini%20%282%20TX%20%2B%201%20RX%20%2B%20Charging%20Case%29%2C%20Ultralight%2C%20Detail-Rich%20Audio.jpg) | **Screenshot price: $79** · [Amazon (paid link)](https://amzn.to/4hWh72L) |
+| DJI Mic Mini Transmitter (Arctic White) — transmitter only | ![DJI Mic Mini Transmitter Arctic White](DJI%20Mic%20Mini%20Transmitter%20%28Arctic%20White%29%2C%20Ultralight%2C%20Detail-Rich%20Audio.jpg) | **Screenshot price: $25** · [Amazon (paid link)](https://amzn.to/3TBwDJr) |
+| DJI Mic Mini (2 TX + 1 RX) | ![DJI Mic Mini 2 TX 1 RX kit](DJI%20Mic%20Mini%20%282%20TX%20%2B%201%20RX%29%2C%20Ultralight%2C%20Detail-Rich%20Audio.jpg) | **Screenshot price: $59** · [Amazon (paid link)](https://amzn.to/4zo6WLo) |
+| DJI Mic Mini Mobile Phone Adapter (Lightning) | ![DJI Mic Mini Lightning mobile phone adapter](DJI%20Mic%20Mini%20Mobile%20Phone%20Adapter%20%28Lightning%29.jpg) | **Screenshot price: $19** · [Amazon (paid link)](https://amzn.to/47iCIxv) |
+| DJI Mic Series Mobile Receiver (DMMR02) | ![DJI Mic Series Mobile Receiver](DJI%20Mic%20Series%20Mobile%20Receiver.jpg) | **Screenshot price: $15** · [Amazon (paid link)](https://amzn.to/4hJP6wt) |
+
+> Product photos are for identification. The price labels reflect screenshots supplied during preparation, not a live price check. Confirm exact kit contents, seller, return policy, warranty, and checkout total before buying. The DMMR02 mobile receiver requires its own **DJI Mic Series Mobile Receiver Adapter (USB-C to Lightning)** for Lightning iPhones; it is not compatible with the older DJI Mic Mini Lightning adapter shown above.
+
+---
+
 ## Our promise: honest reviews first
 
 This guide is built around real-world experience with the DJI Mic Mini and OBS Studio. Affiliate links help support the time spent testing, documenting, and maintaining guides, but they do **not** buy a positive review.
