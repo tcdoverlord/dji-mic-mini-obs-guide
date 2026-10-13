@@ -221,6 +221,38 @@ A compatible magnetic neckband can help keep the Mic Mini comfortably positioned
 
 ---
 
+## ⭐ My Review: Is the DJI Mic Mini Worth Buying?
+
+I originally bought the DJI Mic Mini transmitter in Infinity Black to see whether such a small wireless microphone could compete with my much larger, roughly $150 HyperX dedicated microphone. After testing it with OBS, I'm genuinely impressed by how good it can sound.
+
+### Sound quality and OBS
+
+With the right OBS filters, I was able to get a clean, full, loud voice that sounded surprisingly close to my HyperX. I documented my settings to help other users get started, including an Expander, 3-Band Equalizer, Compressor, Limiter, and Gain. My earlier test used **+9 dB Gain**; the filter settings elsewhere in this guide reflect my later setup, so treat them as starting points and adjust them for your own voice. Make a recording and check for clipping before going live.
+
+### Convenience and versatility
+
+The transmitter is tiny, lightweight, and easy to clip on. Its portability makes it useful for OBS, livestreaming, voice recording, content creation, podcasting, and conversations where I don't want to be tied to a desk. I also like the Infinity Black finish because it looks clean and unobtrusive on camera.
+
+One important lesson from my testing: the transmitter-only Bluetooth setup did not provide the full feature set I wanted, including the receiver-enabled noise-cancellation controls. I also experienced OBS connection losses during that initial transmitter-only setup. Since adding the RX receiver, that connection issue has stopped. If you want the complete receiver-based setup, I recommend considering the full kit rather than buying only the transmitter.
+
+### Battery life and the dedicated-mic question
+
+The main trade-off is battery management. If you're using a wireless mic heavily, the transmitter needs to be charged. A second transmitter or a second complete kit can help you keep another transmitter ready, but it doesn't make the batteries last forever.
+
+Can it replace a dedicated HyperX microphone? **For many uses, yes—the sound can be very good with careful OBS settings. But that doesn't mean you should automatically get rid of your desk mic.** If you spend most of your time sitting at the computer, a dedicated USB microphone is simple, always connected, and ready to use without thinking about wireless battery levels.
+
+My practical recommendation is to **keep the HyperX as a backup if you can**. Use the DJI Mic Mini when you want to move around, record conversations, podcast, or switch between PC and mobile livestreaming. The HyperX gives you a dependable fallback while the wireless transmitter charges or if your wireless setup isn't ready. A second RX receiver can make it easier to leave one setup connected to the PC and another ready for your iPhone, but you still need to keep the transmitter charged.
+
+### My verdict
+
+- **Best for:** Creators who value portability, podcasting, conversations, mobile livestreaming, and moving between devices.
+- **Less essential for:** Someone who sits at a desk all day and already has a reliable dedicated microphone.
+- **My preferred setup:** DJI Mic Mini with the RX receiver for flexibility, plus the HyperX kept connected as a backup when possible.
+
+**Overall:** I recommend the DJI Mic Mini for a creator who will use its portability. If you only need a stationary desk mic, it may not add enough value by itself. For my workflow, the receiver is what made the setup more useful, and keeping a dedicated mic available is the least-hassle way to avoid being caught without audio.
+
+---
+
 <p align="center">
   <strong>Made for streamers and creators by <a href="https://github.com/tcdoverlord">tcdoverlord</a> 💙</strong><br>
   <sub>Community guide; not affiliated with or endorsed by DJI or the OBS Project.</sub>
