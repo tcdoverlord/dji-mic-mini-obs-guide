@@ -217,7 +217,7 @@ A compatible magnetic neckband can help keep the Mic Mini comfortably positioned
 | Words get cut off | Make the Expander threshold less aggressive. |
 | Voice sounds artificial | Reduce noise suppression or EQ changes, then test again. |
 | Background noise remains | Move the mic closer and reduce room noise. |
-| OBS loses the mic connection | Recheck the USB/audio connection and selected device; test whether the issue also happens outside OBS before assuming the cause. |
+| Transmitter-only Bluetooth setup loses connection | This happened during my initial transmitter-only test and sometimes required restarting the computer or signing out and back in. Since adding the RX receiver, the connection issue has stopped. |
 
 ---
 
